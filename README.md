@@ -1,6 +1,7 @@
 #Project title: a reproducible study on logistic growth
 
 #Project contents:
+
 Main files used in the study: experiment.csv, fit_linear_model.R, plot_data.R, plot_data_and_model.R
 
 The csv file I used is "experiment.csv".
