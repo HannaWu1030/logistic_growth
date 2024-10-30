@@ -28,3 +28,6 @@ Under logistic growth `N = (N0*K*exp(r*t))/(K-N0+N0*exp(r*t))` where `K=6*10^10,
 `6*10^10 is much smaller than 3.73*10^24`, and this is because the population already reaches the carrying capacity (K) when t=4980
 
 Q3
+
+
+
