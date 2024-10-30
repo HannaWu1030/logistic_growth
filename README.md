@@ -29,5 +29,9 @@ Under logistic growth `N = (N0*K*exp(r*t))/(K-N0+N0*exp(r*t))` where `K=6*10^10,
 
 Q3
 
+Here is my picture to compare the exponential growth and logistic growth of population size:
+
+![exponential growth VS logistic growth]Exponential&Logistic.png
+
 
 
