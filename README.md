@@ -31,7 +31,7 @@ Q3
 
 Here is my picture to compare the exponential growth and logistic growth of population size:
 
-![exponential growth VS logistic growth]Exponential&Logistic.png
+![exponential growth VS logistic growth]https://github.com/HannaWu1030/logistic_growth/blob/main/Exponential%26Logistic.png
 
 
 
